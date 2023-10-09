@@ -1,14 +1,16 @@
 # climem
 
+This is a fork of the climem project (https://github.com/mcollina/climem) tailored for compatibility with projects that utilize worker threads.
+
 Monitor the memory consumption of your node process via CLI
 
-![demo](https://raw.githubusercontent.com/mcollina/climem/master/demo.gif)
+![demo](https://raw.githubusercontent.com/maucaruso/climem/master/demo.gif)
 
 ## Install
 
 ```
-npm install climem
-npm install climem -g
+npm install climem-worker-threads
+npm install climem-worker-threads -g
 ```
 
 ## Usage

@@ -1,7 +1,7 @@
 {
-  "name": "climem",
+  "name": "climem-worker-threads",
   "version": "1.0.3",
-  "description": "Track memory consumption in your terminal",
+  "description": "The same project as climem, but working in projects that uses worker threads",
   "main": "climem.js",
   "bin": {
     "climem": "climem.js"
@@ -13,12 +13,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mcollina/climem.git"
+    "url": "git+https://github.com/maucaruso/climem.git"
   },
   "bugs": {
-    "url": "https://github.com/mcollina/climem/issues"
+    "url": "https://github.com/maucaruso/climem/issues"
   },
-  "homepage": "https://github.com/mcollina/climem#readme",
+  "homepage": "https://github.com/maucaruso/climem#readme",
   "devDependencies": {
     "pre-commit": "^1.1.2",
     "standard": "^5.4.1"
