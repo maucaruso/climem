@@ -1,6 +1,6 @@
 {
   "name": "climem-worker-threads",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The same project as climem, but working in projects that uses worker threads",
   "main": "climem.js",
   "bin": {
